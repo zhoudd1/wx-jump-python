@@ -22,6 +22,6 @@
 
 > Are you ready ?
 
-  [click me](http://http://39.106.71.194/index.php/2018/02/05/python-%e5%ae%9e%e7%8e%b0%e5%be%ae%e4%bf%a1jump-and-jump%ef%bc%88%e8%b7%b3%e4%b8%80%e8%b7%b3%ef%bc%89%e5%86%85%e5%ae%b9%e8%af%a6%e7%bb%86/)
+  [click me](http://39.106.71.194/index.php/2018/02/05/python-%e5%ae%9e%e7%8e%b0%e5%be%ae%e4%bf%a1jump-and-jump%ef%bc%88%e8%b7%b3%e4%b8%80%e8%b7%b3%ef%bc%89%e5%86%85%e5%ae%b9%e8%af%a6%e7%bb%86/)
   
   
